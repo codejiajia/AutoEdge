@@ -1,4 +1,4 @@
-# AutoEdge
+# AutoEdge-CCP
 A novel cancer-centric multi-association prediction model based on multi-source heterogeneous network integrating node intrinsic attribute information and link information.<br/>
 ![image](https://github.com/codejiajia/AutoEdge-CCP/blob/main/framework.jpg)
 <br/>
